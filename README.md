@@ -52,3 +52,6 @@ Change the speed
 
 
 Regenerate the array
+![alt text](https://github.com/DineshDewasi/sorting-visualizer/blob/main/img/screenshotv1.png
+)
+
